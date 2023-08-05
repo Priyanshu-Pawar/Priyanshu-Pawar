@@ -1,6 +1,6 @@
 ## Hello <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Priyanshu Pawar](https://github.com/Priyanshu-Pawar)
 
-<img align="right" width="400" margin-top="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1691224162~exp=1691224762~hmac=2a30040018a40a26c1cc006156f745989ac54ee6c612320e4956891c9227aa69">
+<img align="right" width="450" height="400" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1691224162~exp=1691224762~hmac=2a30040018a40a26c1cc006156f745989ac54ee6c612320e4956891c9227aa69">
 
 **_<h4 align="center"> Hello Everyone! 👋 I'm is Priyanshu Pawar and I recently completed my graduation🎓 in Computer Science and Engineering from Shri Shankarprasad Agnihotri College Of Engineering in 2023. During my time in college, I worked on various projects such as a college placement portal and a file sharing website. These projects helped me gain practical experience and further develop my skills.
 Speaking of skills, I am proficient in programming languages such as C, C++, Java, SQL, HTML, JavaScript, and Android. These skills have helped me in creating various applications and websites during my academic years. I have also solved various coding questions on platforms like LeetCode and GeeksForGeeks and have achieved a 5 ⭐ rating in CPP on HackerRank. I am always eager to learn new technologies and stay updated with the latest trends in the industry.
