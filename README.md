@@ -2,7 +2,7 @@
 
 <img align="right" width="360" height="410" src="https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1691224162~exp=1691224762~hmac=2a30040018a40a26c1cc006156f745989ac54ee6c612320e4956891c9227aa69">
 
-<h3 align="center">A Passionate Frontend And Android Developer from India.</h3>
+<h3 align="center">A Passionate Android And Frontend Developer from India.</h3>
 
 
 **_<h4 align="center"> Hello Everyone! 👋 I'm is Priyanshu Pawar and I recently completed my graduation🎓 in Computer Science and Engineering from Shri Shankarprasad Agnihotri College Of Engineering in 2023. During my time in college, I worked on various projects such as a college placement portal and a file sharing website. These projects helped me gain practical experience and further develop my skills.
@@ -16,8 +16,8 @@ Apart from academics, I have a few hobbies that I enjoy pursuing in my free time
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ... **Frontend Development (React)**
-- 🌱 I’m currently learning ... **Python and MySQL**
+- 🔭 I’m currently working on ... **Android Development (Kotlin & Java)**
+- 🌱 I’m currently learning ... **Kotlin**
 - 👨‍💻 All of my projects are available at [Priyanshu](https://github.com/Priyanshu-Pawar)
 - 📫 How to reach me **priyanshupawar2021@gmail.com**
 - CheckOut My Personal Portfolio [https://priyanshu-pawar.netlify.app/](https://priyanshu-pawar.netlify.app/)
